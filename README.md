@@ -1,4 +1,6 @@
 # JOrbis - Pure Java Ogg Vorbis Decoder
+[![](https://jitpack.io/v/NullNoname/jorbis.svg)](https://jitpack.io/#NullNoname/jorbis)
+
 The original README file is available as 'README.original' in the root directory.
 
 This repository is an unofficial mirror of [JOrbis](http://www.jcraft.com/jorbis/), a pure Java Ogg Vorbis decoder.
